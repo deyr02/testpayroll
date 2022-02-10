@@ -1,0 +1,11 @@
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\PayrollStaffLeaveCore.exe
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\PayrollStaffLeaveCore.dll
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\PayrollStaffLeaveCore.deps.json
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\PayrollStaffLeaveCore.runtimeconfig.json
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\PayrollStaffLeaveCore.pdb
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\DbfDataReader.dll
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\System.Text.Encoding.CodePages.dll
+C:\Users\rajib.dey\Desktop\PayrollStaffLeaveCore\PayrollStaffLeaveCore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
